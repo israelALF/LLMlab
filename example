@@ -1,0 +1,7 @@
+# Required
+DD_API_KEY=add_your_api_key
+
+# Optional
+DD_SITE=datadoghq.com
+DD_ENV=dev
+DD_VERSION=0.1.0
